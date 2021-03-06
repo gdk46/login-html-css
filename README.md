@@ -18,10 +18,10 @@ ok            |   ok  | ok      | ok     | ok
 
 ## Comparação
 Original
-![alt](\doc\CredPago-original.png)
+![alt](https://github.com/gdk46/credpago-login-html-css/blob/main/doc/CredPago-original.png)
 
 Remodelada
-![alt](\doc\CredPago.png)
+![alt](https://github.com/gdk46/credpago-login-html-css/blob/main/doc/CredPago.png)
 
 
 ## O que foi feito
