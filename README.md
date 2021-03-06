@@ -1,4 +1,4 @@
-# layout login fron-end e UI/UX
+# layout login (fron-end e UI/UX)
 layout de login feito em HTML e CSS visando a melhoria da interface e experiência do usuário. O login escolhido para o projeto foi o da empresa CredPago.
 
 ## Tools, Stack e processos utilizados
